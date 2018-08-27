@@ -8,3 +8,4 @@ Cause a second conflict
 Added in emergency branch
 Added as User2
 Added Conflict by User2
+Added a cinflict by davidorelowitz
